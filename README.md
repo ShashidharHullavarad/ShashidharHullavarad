@@ -3,7 +3,7 @@
 <h3 align="center">Deep Learning | Computer Vision | Machine Learning | Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A;Love+Building+AI+Projects+%F0%9F%A4%96;Data+Visualization+is+Fun+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A;Love+Building+AI+Models+%F0%9F%A4%96;Data+Visualization+is+Fun+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 ---
