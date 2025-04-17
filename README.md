@@ -43,16 +43,16 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shasshh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shasshh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShashidharHullavarad&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: [shullavarad@alaska.edu](mailto:hullavarad@gmail.com)  
-- 🔗 GitHub: [github.com/Shasshh](https://github.com/ShashidharHullavarad)
+- 📧 Email: [hullavarad@gmail.com](mailto:hullavarad@gmail.com)  
+- 🔗 GitHub: [github.com/ShashidharHullavarad](https://github.com/ShashidharHullavarad)
 
 ---
 
