@@ -23,7 +23,7 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 - Real-time data visualization & dashboarding
 - Optimizing deep learning models
 
-💬 Ask me about anything related to AI, DL, ML, or visualizing data like a pro!
+💬 Ask me about anything related to AI, DL, ML, or visualizing data !
 
 ---
 
@@ -51,10 +51,10 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 
 ### 📫 Let's Connect
 
-- 📧 Email: [shullavarad@alaska.edu](mailto:shullavarad@alaska.edu)  
-- 🔗 GitHub: [github.com/Shasshh](https://github.com/Shasshh)
+- 📧 Email: [shullavarad@alaska.edu](mailto:hullavarad@gmail.com)  
+- 🔗 GitHub: [github.com/Shasshh](https://github.com/ShashidharHullavarad)
 
 ---
 
-*Thanks for visiting my profile! 🚀*
+*Thanks ! 🚀*
 
