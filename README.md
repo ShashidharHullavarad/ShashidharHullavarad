@@ -33,6 +33,16 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 
 ---
 
+## ⚡ GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShashidharHullavarad&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharHullavarad&layout=compact&theme=default)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
