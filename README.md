@@ -27,6 +27,12 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 
 ---
 
+## 🔥 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=light&font=Baloo&ext=contest)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
