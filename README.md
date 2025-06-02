@@ -1,33 +1,35 @@
 <!-- Profile Banner -->
-<h1 align="center">👋 Hello, I'm Shashi Hullavarad</h1>
-<h3 align="center">⚙️ Deep Learning | 👁️ Computer Vision | 🧠 Machine Learning | 📊 Power BI</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A4%96+|+Tech+Explorer+%F0%9F%9A%80+|+Data+Storyteller+%F0%9F%93%88+|+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+# 👋 Hello, I'm Shashi Hullavarad  
+### ⚙️ Deep Learning | 👁️ Computer Vision | 🧠 Machine Learning | 📊 Power BI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A4%96+|+Tech+Explorer+%F0%9F%9A%80+|+Data+Storyteller+%F0%9F%93%88+|+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 💡 About Me
 
-I’m **Shashi Hullavarad**, a tech enthusiast driven by curiosity and creativity in AI, ML, and visualization. I thrive at the intersection of intelligent systems and interactive dashboards.
+Hi! I’m **Shashi Hullavarad**, a tech enthusiast with a passion for building intelligent systems and turning data into actionable insights.
 
-🔍 **What I Do**  
-- 🧠 Build predictive models using Machine Learning  
-- 🧪 Train deep neural networks for real-world image data  
-- 📸 Apply Computer Vision for classification, detection & more  
-- 📊 Craft powerful visuals using Power BI & Python tools  
+🔍 **I Love Working On:**
+- 🤖 Building deep learning models for real-world problems  
+- 👁️ Computer vision projects involving image classification & detection  
+- 📊 Interactive dashboards using **Power BI**, **Matplotlib**, and **Seaborn**  
+- 🚀 Deploying models with **Flask** & **Streamlit**  
 
-🚀 **Currently Exploring**  
-- Model deployment with **Flask** & **Streamlit**  
-- Real-time dashboards & BI integrations  
-- Transfer learning and model tuning for Computer Vision
+🧠 **Learning Focus:**
+- Transfer learning for CNNs  
+- Real-time BI integrations  
+- Scaling ML pipelines  
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🧰 Tech Toolbox
 
-### Programming & Data Science
+### Programming & AI
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -50,7 +52,7 @@ I’m **Shashi Hullavarad**, a tech enthusiast driven by curiosity and creativit
 
 ---
 
-## 🔥 Competitive Programming
+## 🧠 LeetCode Practice
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=light&font=Fira+Code&ext=activity)
 
@@ -58,22 +60,22 @@ I’m **Shashi Hullavarad**, a tech enthusiast driven by curiosity and creativit
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashidharHullavarad&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharHullavarad&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashidharHullavarad&theme=github-dark-blue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharHullavarad&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Get in Touch
 
-- 📧 Email: [hullavarad@gmail.com](mailto:hullavarad@gmail.com)  
-- 🔗 GitHub: [ShashidharHullavarad](https://github.com/ShashidharHullavarad)  
-- 💼 LinkedIn: *(Add if available)*
+- 📧 **Email**: [hullavarad@gmail.com](mailto:hullavarad@gmail.com)  
+- 🧑‍💻 **GitHub**: [github.com/ShashidharHullavarad](https://github.com/ShashidharHullavarad)  
+- 🔗 **LinkedIn**: *(Add your LinkedIn URL here)*  
 
 ---
 
-<p align="center">✨ "Code. Learn. Build. Repeat." ✨</p>
+<p align="center">✨ *Code. Learn. Build. Repeat.* ✨</p>
