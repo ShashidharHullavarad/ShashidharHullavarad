@@ -1,67 +1,79 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Shashi Hullavarad</h1>
-<h3 align="center">Deep Learning | Computer Vision | Machine Learning | Power BI</h3>
+<!-- Profile Banner -->
+<h1 align="center">👋 Hello, I'm Shashi Hullavarad</h1>
+<h3 align="center">⚙️ Deep Learning | 👁️ Computer Vision | 🧠 Machine Learning | 📊 Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A;Love+Building+AI+Models+%F0%9F%A4%96;Data+Visualization+is+Fun+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A4%96+|+Tech+Explorer+%F0%9F%9A%80+|+Data+Storyteller+%F0%9F%93%88+|+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 💡 About Me
 
-I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested in building intelligent systems and insightful dashboards.
+I’m **Shashi Hullavarad**, a tech enthusiast driven by curiosity and creativity in AI, ML, and visualization. I thrive at the intersection of intelligent systems and interactive dashboards.
 
-🔧 What I work with:
-- 🤖 **Deep Learning**: CNNs, image classification, object detection, real-world AI applications
-- 👁️‍🗨️ **Computer Vision**: OpenCV, PyTorch, image processing
-- 🧠 **Machine Learning**: Predictive modeling, classification, regression
-- 📊 **Power BI & Data Visualization**: Turning data into dashboards using Power BI, Matplotlib, and Seaborn
+🔍 **What I Do**  
+- 🧠 Build predictive models using Machine Learning  
+- 🧪 Train deep neural networks for real-world image data  
+- 📸 Apply Computer Vision for classification, detection & more  
+- 📊 Craft powerful visuals using Power BI & Python tools  
 
-🌱 I'm currently diving deeper into:
-- Deploying ML models with **Flask/Streamlit**
-- Real-time data visualization & dashboarding
-- Optimizing deep learning models
-
-💬 Ask me about anything related to AI, DL, ML, or visualizing data !
+🚀 **Currently Exploring**  
+- Model deployment with **Flask** & **Streamlit**  
+- Real-time dashboards & BI integrations  
+- Transfer learning and model tuning for Computer Vision
 
 ---
 
-## 🔥 LeetCode Stats
+## 🧰 My Tech Toolbox
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=light&font=Baloo&ext=contest)
+### Programming & Data Science
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
-## ⚡ GitHub Stats
+### Data & Visualization
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShashidharHullavarad&theme=default)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C61CC?style=for-the-badge&logo=seaborn&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=default)
+### Web & Dev Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharHullavarad&layout=compact&theme=default)
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+## 🔥 Competitive Programming
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=light&font=Fira+Code&ext=activity)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashidharHullavarad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashidharHullavarad&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharHullavarad&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📬 Let’s Connect
 
 - 📧 Email: [hullavarad@gmail.com](mailto:hullavarad@gmail.com)  
-- 🔗 GitHub: [github.com/ShashidharHullavarad](https://github.com/ShashidharHullavarad)
+- 🔗 GitHub: [ShashidharHullavarad](https://github.com/ShashidharHullavarad)  
+- 💼 LinkedIn: *(Add if available)*
 
 ---
 
-*Thanks ! 🚀*
-
+<p align="center">✨ "Code. Learn. Build. Repeat." ✨</p>
