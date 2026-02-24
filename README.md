@@ -1,29 +1,89 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shashi Hullavarad</h1>
-<h3 align="center">Deep Learning | Computer Vision | Machine Learning | Power BI</h3>
+<h3 align="center">Deep Learning | Computer Vision | Machine Learning | Power BI | FinTech & SaaS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Tech+Enthusiast+%F0%9F%94%A5;Lifelong+Learner+%F0%9F%93%9A;Love+Building+AI+Models+%F0%9F%A4%96;Data+Visualization+is+Fun+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Tech+Enthusiast+🔥;AI+%26+Deep+Learning+Explorer+🤖;FinTech+%26+SaaS+Professional+💳;Love+Building+Smart+Systems+🚀;Data+Visualization+is+Fun+📊" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested in building intelligent systems and insightful dashboards.
+I'm **Shashi Hullavarad**, a passionate and curious tech enthusiast focused on building intelligent systems, solving real-world problems, and transforming data into actionable insights.
 
-🔧 What I work with:
-- 🤖 **Deep Learning**: CNNs, image classification, object detection, real-world AI applications
-- 👁️‍🗨️ **Computer Vision**: OpenCV, PyTorch, image processing
-- 🧠 **Machine Learning**: Predictive modeling, classification, regression
-- 📊 **Power BI & Data Visualization**: Turning data into dashboards using Power BI, Matplotlib, and Seaborn
+I enjoy working at the intersection of **AI, Machine Learning, FinTech, and SaaS products**.
 
-🌱 I'm currently diving deeper into:
-- Deploying ML models with **Flask/Streamlit**
-- Real-time data visualization & dashboarding
-- Optimizing deep learning models
+---
 
-💬 Ask me about anything related to AI, DL, ML, or visualizing data !
+### 🔧 What I Work With
+
+- 🤖 **Deep Learning & AI**  
+  CNNs, Image Classification, Object Detection, Model Optimization
+
+- 👁️‍🗨️ **Computer Vision**  
+  OpenCV, PyTorch, Image Processing & Analysis
+
+- 🧠 **Machine Learning**  
+  Predictive Modeling, Classification, Regression
+
+- 📊 **Data Visualization & Analytics**  
+  Power BI, Matplotlib, Seaborn
+
+---
+
+### 💼 Professional Experience
+
+#### 💳 **FinTech Domain**
+
+- Experience working with **financial technology products & workflows**
+- Understanding of transaction systems, financial data, and customer journeys
+- Exposure to business-critical systems requiring accuracy & reliability
+
+---
+
+#### ☁️ **SaaS Products & CRM Tools**
+
+- Hands-on experience supporting and working with **SaaS platforms**
+- Experience with **CRM tools & customer case management**
+- Diagnosing issues through logs, screenshots, and system analysis
+- Collaborating with cross-functional teams to resolve complex problems
+
+---
+
+#### 🧾 **GST & Taxation Products**
+
+- Experience working with **GST-related software products**
+- Exposure to **GST filing workflows & compliance systems**
+- Functional understanding of tax reporting processes
+
+---
+
+#### 🧪 **Product Testing & Validation**
+
+- Experience in **testing SaaS / FinTech / GST products**
+- Identifying bugs, validating features, and ensuring product stability
+- Reproducing issues & assisting in debugging workflows
+- Supporting product reliability & user experience improvements
+
+---
+
+### ⚙️ Core Strengths
+
+✔ Technical Problem Solving  
+✔ Analytical Thinking  
+✔ Debugging & Root Cause Analysis  
+✔ SaaS & Business System Understanding  
+✔ Data-Driven Decision Support  
+
+---
+
+### 🌱 Currently Exploring
+
+- Deploying ML models using **Flask / Streamlit**
+- Real-time analytics & dashboarding
+- Deep learning model optimization & performance tuning
+- Building scalable AI-powered applications
 
 ---
 
@@ -63,5 +123,6 @@ I'm **Shashi Hullavarad**, a curious and passionate individual deeply interested
 
 ---
 
-*Thanks ! 🚀*
-<p align="center">✨ *Code. Learn. Build. Repeat.* ✨</p>
+<p align="center">
+✨ <b>Code. Learn. Build. Repeat.</b> ✨
+</p>
