@@ -89,9 +89,7 @@
 
 ## 🔥 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shashidharhullavarad?theme=dark&font=Baloo&ext=contest" />
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=dark&font=baloo&ext=contest)
 
 ---
 
