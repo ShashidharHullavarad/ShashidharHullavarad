@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hardcore+Coder+💻;AI+%26+ML+Builder+🤖;FinTech+%26+SaaS+Professional+⚡;Debugging+Like+A+Detective+🔍;Eat+Sleep+Code+Repeat+🔥" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
