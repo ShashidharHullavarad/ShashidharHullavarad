@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  💻 <b>Hardcore Coder | AI Explorer | FinTech & SaaS ⚡</b>
+  💻 <b>Coder | AI Explorer | FinTech & SaaS ⚡</b>
 </p>
 
 ---
