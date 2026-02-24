@@ -89,7 +89,9 @@
 
 ## 🔥 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shashidharhullavarad?theme=dark&font=baloo&ext=contest)
+## 🔥 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/shashidharhullavarad/)
 
 ---
 
