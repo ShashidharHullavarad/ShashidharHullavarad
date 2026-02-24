@@ -3,9 +3,8 @@
 <h3 align="center">Deep Learning | Computer Vision | Machine Learning | Power BI | FinTech & SaaS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Tech+Enthusiast+🔥;AI+%26+Deep+Learning+Explorer+🤖;FinTech+%26+SaaS+Professional+💳;Love+Building+Smart+Systems+🚀;Data+Visualization+is+Fun+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Tech+Enthusiast+🔥;AI+%26+Deep+Learning+Explorer+🤖;FinTech+%26+SaaS+Professional+💳;Love+Building+Smart+Systems+🚀;Data+Visualization+is+Fun+📊" />
 </p>
-
 ---
 
 ### 🚀 About Me
